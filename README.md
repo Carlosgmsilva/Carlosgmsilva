@@ -1,5 +1,5 @@
 # Olá, Devs! 👋 Bem-vindo ao meu perfil do GitHub
-##👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 Olá! Sou o Carlos Gabriel, um desenvolvedor backand apaixonado por progamação. Atualmente, curso Analise desenvolvimento de sistemas.
 
 😎 Localização: Brasil / SP 🇧🇷
