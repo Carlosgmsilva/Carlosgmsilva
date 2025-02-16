@@ -3,6 +3,7 @@
 Olá! Sou o Carlos Gabriel, um desenvolvedor backand apaixonado por progamação. Atualmente, curso Analise desenvolvimento de sistemas.
 
 😎 Localização: Brasil / SP 🇧🇷
+
 😜 Objetivo: Tornar-me um desenvolvedor Backend de alto nível e criar projetos incriveis.
 
 ---
@@ -27,6 +28,7 @@ Olá! Sou o Carlos Gabriel, um desenvolvedor backand apaixonado por progamação
 ---
 
 🌎 Onde me encontrar?
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-gabriel-1b6928271/)
 
 📧 Contato: 
