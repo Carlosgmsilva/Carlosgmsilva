@@ -14,8 +14,7 @@ Olá! Sou o Carlos Gabriel, um desenvolvedor backend apaixonado por progamação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>     
 </p>
 
 🔧 Ferramentas: Git | VSCode |
@@ -24,8 +23,8 @@ Olá! Sou o Carlos Gabriel, um desenvolvedor backend apaixonado por progamação
 
 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosgmsilva&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosgmsilva&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosgmsilva&show_icons=true&theme=radical&count_private=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosgmsilva&layout=compact&theme=radical&cache_seconds=3600"/>
 </div>
 
 ---
